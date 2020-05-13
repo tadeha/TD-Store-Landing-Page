@@ -1,9 +1,9 @@
 # TD Store Landing Page
-<b>صفحه فرود کمپین "سالت رو نو کن!"</b> 
+<b>"Make Your Year New" Campaign Landing Page</b> 
 
 <img src="https://cloud.githubusercontent.com/assets/22890731/25747758/e0656fcc-31bd-11e7-873b-f50ad737a64f.png" />
 
-این صفحه با استفاده از تکنولوژی های زیر ساخته شده:
+This page is made using the following technologies:
 
 HTML 5<br>
 CSS 3<br>
@@ -11,4 +11,4 @@ BOOTSTRAP<br>
 JAVASCRIPT<br>
 PHP
 
-شما میتوانید از ساختار این صفحه برای صفحه فرود خود استفاده کنید.
+You can use the structure of this page for your landing page.
